@@ -1,0 +1,835 @@
+request,day,month
+primeiro de janeiro,1,1
+um de janeiro,1,1
+dois de janeiro,2,1
+três de janeiro,3,1
+quatro de janeiro,4,1
+cinco de janeiro,5,1
+seis de janeiro,6,1
+sete de janeiro,7,1
+oito de janeiro,8,1
+nove de janeiro,9,1
+dez de janeiro,10,1
+onze de janeiro,11,1
+oze de janeiro,12,1
+treze de janeiro,13,1
+catorze de janeiro,14,1
+quatorze de janeiro,14,1
+quinze de janeiro,15,1
+dezesseis de janeiro,16,1
+dezessete de janeiro,17,1
+dezoito de janeiro,18,1
+dezenove de janeiro,19,1
+vinte de janeiro,20,1
+vinte e um de janeiro,21,1
+vinte e dois de janeiro,22,1
+vinte e três de janeiro,23,1
+vinte e quatro de janeiro,24,1
+vinte e cinco de janeiro,25,1
+vinte e seis de janeiro,26,1
+vinte e sete de janeiro,27,1
+vinte e oito de janeiro,28,1
+vinte e nove de janeiro,29,1
+trinta de janeiro,30,1
+trinta e um de janeiro,31,1
+primeiro de fevereiro,1,2
+um de fevereiro,1,2
+dois de fevereiro,2,2
+três de fevereiro,3,2
+quatro de fevereiro,4,2
+cinco de fevereiro,5,2
+seis de fevereiro,6,2
+sete de fevereiro,7,2
+oito de fevereiro,8,2
+nove de fevereiro,9,2
+dez de fevereiro,10,2
+onze de fevereiro,11,2
+oze de fevereiro,12,2
+treze de fevereiro,13,2
+catorze de fevereiro,14,2
+quatorze de fevereiro,14,2
+quinze de fevereiro,15,2
+dezesseis de fevereiro,16,2
+dezessete de fevereiro,17,2
+dezoito de fevereiro,18,2
+dezenove de fevereiro,19,2
+vinte de fevereiro,20,2
+vinte e um de fevereiro,21,2
+vinte e dois de fevereiro,22,2
+vinte e três de fevereiro,23,2
+vinte e quatro de fevereiro,24,2
+vinte e cinco de fevereiro,25,2
+vinte e seis de fevereiro,26,2
+vinte e sete de fevereiro,27,2
+vinte e oito de fevereiro,28,2
+vinte e nove de fevereiro,29,2
+primeiro de março,1,3
+um de março,1,3
+dois de março,2,3
+três de março,3,3
+quatro de março,4,3
+cinco de março,5,3
+seis de março,6,3
+sete de março,7,3
+oito de março,8,3
+nove de março,9,3
+dez de março,10,3
+onze de março,11,3
+oze de março,12,3
+treze de março,13,3
+catorze de março,14,3
+quatorze de março,14,3
+quinze de março,15,3
+dezesseis de março,16,3
+dezessete de março,17,3
+dezoito de março,18,3
+dezenove de março,19,3
+vinte de março,20,3
+vinte e um de março,21,3
+vinte e dois de março,22,3
+vinte e três de março,23,3
+vinte e quatro de março,24,3
+vinte e cinco de março,25,3
+vinte e seis de março,26,3
+vinte e sete de março,27,3
+vinte e oito de março,28,3
+vinte e nove de março,29,3
+trinta de março,30,3
+trinta e um de março,31,3
+primeiro de abril,1,4
+um de abril,1,4
+dois de abril,2,4
+três de abril,3,4
+quatro de abril,4,4
+cinco de abril,5,4
+seis de abril,6,4
+sete de abril,7,4
+oito de abril,8,4
+nove de abril,9,4
+dez de abril,10,4
+onze de abril,11,4
+oze de abril,12,4
+treze de abril,13,4
+catorze de abril,14,4
+quatorze de abril,14,4
+quinze de abril,15,4
+dezesseis de abril,16,4
+dezessete de abril,17,4
+dezoito de abril,18,4
+dezenove de abril,19,4
+vinte de abril,20,4
+vinte e um de abril,21,4
+vinte e dois de abril,22,4
+vinte e três de abril,23,4
+vinte e quatro de abril,24,4
+vinte e cinco de abril,25,4
+vinte e seis de abril,26,4
+vinte e sete de abril,27,4
+vinte e oito de abril,28,4
+vinte e nove de abril,29,4
+trinta de abril,30,4
+primeiro de maio,1,5
+um de maio,1,5
+dois de maio,2,5
+três de maio,3,5
+quatro de maio,4,5
+cinco de maio,5,5
+seis de maio,6,5
+sete de maio,7,5
+oito de maio,8,5
+nove de maio,9,5
+dez de maio,10,5
+onze de maio,11,5
+oze de maio,12,5
+treze de maio,13,5
+catorze de maio,14,5
+quatorze de maio,14,5
+quinze de maio,15,5
+dezesseis de maio,16,5
+dezessete de maio,17,5
+dezoito de maio,18,5
+dezenove de maio,19,5
+vinte de maio,20,5
+vinte e um de maio,21,5
+vinte e dois de maio,22,5
+vinte e três de maio,23,5
+vinte e quatro de maio,24,5
+vinte e cinco de maio,25,5
+vinte e seis de maio,26,5
+vinte e sete de maio,27,5
+vinte e oito de maio,28,5
+vinte e nove de maio,29,5
+trinta de maio,30,5
+trinta e um de maio,31,5
+primeiro de junho,1,6
+um de junho,1,6
+dois de junho,2,6
+três de junho,3,6
+quatro de junho,4,6
+cinco de junho,5,6
+seis de junho,6,6
+sete de junho,7,6
+oito de junho,8,6
+nove de junho,9,6
+dez de junho,10,6
+onze de junho,11,6
+oze de junho,12,6
+treze de junho,13,6
+catorze de junho,14,6
+quatorze de junho,14,6
+quinze de junho,15,6
+dezesseis de junho,16,6
+dezessete de junho,17,6
+dezoito de junho,18,6
+dezenove de junho,19,6
+vinte de junho,20,6
+vinte e um de junho,21,6
+vinte e dois de junho,22,6
+vinte e três de junho,23,6
+vinte e quatro de junho,24,6
+vinte e cinco de junho,25,6
+vinte e seis de junho,26,6
+vinte e sete de junho,27,6
+vinte e oito de junho,28,6
+vinte e nove de junho,29,6
+trinta de junho,30,6
+primeiro de julho,1,7
+um de julho,1,7
+dois de julho,2,7
+três de julho,3,7
+quatro de julho,4,7
+cinco de julho,5,7
+seis de julho,6,7
+sete de julho,7,7
+oito de julho,8,7
+nove de julho,9,7
+dez de julho,10,7
+onze de julho,11,7
+oze de julho,12,7
+treze de julho,13,7
+catorze de julho,14,7
+quatorze de julho,14,7
+quinze de julho,15,7
+dezesseis de julho,16,7
+dezessete de julho,17,7
+dezoito de julho,18,7
+dezenove de julho,19,7
+vinte de julho,20,7
+vinte e um de julho,21,7
+vinte e dois de julho,22,7
+vinte e três de julho,23,7
+vinte e quatro de julho,24,7
+vinte e cinco de julho,25,7
+vinte e seis de julho,26,7
+vinte e sete de julho,27,7
+vinte e oito de julho,28,7
+vinte e nove de julho,29,7
+trinta de julho,30,7
+trinta e um de julho,31,7
+primeiro de agosto,1,8
+um de agosto,1,8
+dois de agosto,2,8
+três de agosto,3,8
+quatro de agosto,4,8
+cinco de agosto,5,8
+seis de agosto,6,8
+sete de agosto,7,8
+oito de agosto,8,8
+nove de agosto,9,8
+dez de agosto,10,8
+onze de agosto,11,8
+oze de agosto,12,8
+treze de agosto,13,8
+catorze de agosto,14,8
+quatorze de agosto,14,8
+quinze de agosto,15,8
+dezesseis de agosto,16,8
+dezessete de agosto,17,8
+dezoito de agosto,18,8
+dezenove de agosto,19,8
+vinte de agosto,20,8
+vinte e um de agosto,21,8
+vinte e dois de agosto,22,8
+vinte e três de agosto,23,8
+vinte e quatro de agosto,24,8
+vinte e cinco de agosto,25,8
+vinte e seis de agosto,26,8
+vinte e sete de agosto,27,8
+vinte e oito de agosto,28,8
+vinte e nove de agosto,29,8
+trinta de agosto,30,8
+trinta e um de agosto,31,8
+primeiro de setembro,1,9
+um de setembro,1,9
+dois de setembro,2,9
+três de setembro,3,9
+quatro de setembro,4,9
+cinco de setembro,5,9
+seis de setembro,6,9
+sete de setembro,7,9
+oito de setembro,8,9
+nove de setembro,9,9
+dez de setembro,10,9
+onze de setembro,11,9
+oze de setembro,12,9
+treze de setembro,13,9
+catorze de setembro,14,9
+quatorze de setembro,14,9
+quinze de setembro,15,9
+dezesseis de setembro,16,9
+dezessete de setembro,17,9
+dezoito de setembro,18,9
+dezenove de setembro,19,9
+vinte de setembro,20,9
+vinte e um de setembro,21,9
+vinte e dois de setembro,22,9
+vinte e três de setembro,23,9
+vinte e quatro de setembro,24,9
+vinte e cinco de setembro,25,9
+vinte e seis de setembro,26,9
+vinte e sete de setembro,27,9
+vinte e oito de setembro,28,9
+vinte e nove de setembro,29,9
+trinta de setembro,30,9
+primeiro de outubro,1,10
+um de outubro,1,10
+dois de outubro,2,10
+três de outubro,3,10
+quatro de outubro,4,10
+cinco de outubro,5,10
+seis de outubro,6,10
+sete de outubro,7,10
+oito de outubro,8,10
+nove de outubro,9,10
+dez de outubro,10,10
+onze de outubro,11,10
+oze de outubro,12,10
+treze de outubro,13,10
+catorze de outubro,14,10
+quatorze de outubro,14,10
+quinze de outubro,15,10
+dezesseis de outubro,16,10
+dezessete de outubro,17,10
+dezoito de outubro,18,10
+dezenove de outubro,19,10
+vinte de outubro,20,10
+vinte e um de outubro,21,10
+vinte e dois de outubro,22,10
+vinte e três de outubro,23,10
+vinte e quatro de outubro,24,10
+vinte e cinco de outubro,25,10
+vinte e seis de outubro,26,10
+vinte e sete de outubro,27,10
+vinte e oito de outubro,28,10
+vinte e nove de outubro,29,10
+trinta de outubro,30,10
+trinta e um de outubro,31,10
+primeiro de novembro,1,11
+um de novembro,1,11
+dois de novembro,2,11
+três de novembro,3,11
+quatro de novembro,4,11
+cinco de novembro,5,11
+seis de novembro,6,11
+sete de novembro,7,11
+oito de novembro,8,11
+nove de novembro,9,11
+dez de novembro,10,11
+onze de novembro,11,11
+oze de novembro,12,11
+treze de novembro,13,11
+catorze de novembro,14,11
+quatorze de novembro,14,11
+quinze de novembro,15,11
+dezesseis de novembro,16,11
+dezessete de novembro,17,11
+dezoito de novembro,18,11
+dezenove de novembro,19,11
+vinte de novembro,20,11
+vinte e um de novembro,21,11
+vinte e dois de novembro,22,11
+vinte e três de novembro,23,11
+vinte e quatro de novembro,24,11
+vinte e cinco de novembro,25,11
+vinte e seis de novembro,26,11
+vinte e sete de novembro,27,11
+vinte e oito de novembro,28,11
+vinte e nove de novembro,29,11
+trinta de novembro,30,11
+primeiro de dezembro,1,12
+um de dezembro,1,12
+dois de dezembro,2,12
+três de dezembro,3,12
+quatro de dezembro,4,12
+cinco de dezembro,5,12
+seis de dezembro,6,12
+sete de dezembro,7,12
+oito de dezembro,8,12
+nove de dezembro,9,12
+dez de dezembro,10,12
+onze de dezembro,11,12
+oze de dezembro,12,12
+treze de dezembro,13,12
+catorze de dezembro,14,12
+quatorze de dezembro,14,12
+quinze de dezembro,15,12
+dezesseis de dezembro,16,12
+dezessete de dezembro,17,12
+dezoito de dezembro,18,12
+dezenove de dezembro,19,12
+vinte de dezembro,20,12
+vinte e um de dezembro,21,12
+vinte e dois de dezembro,22,12
+vinte e três de dezembro,23,12
+vinte e quatro de dezembro,24,12
+vinte e cinco de dezembro,25,12
+vinte e seis de dezembro,26,12
+vinte e sete de dezembro,27,12
+vinte e oito de dezembro,28,12
+vinte e nove de dezembro,29,12
+trinta de dezembro,30,12
+trinta e um de dezembro,31,12
+primeiro do um,1,1
+um do um,1,1
+dois do um,2,1
+três do um,3,1
+quatro do um,4,1
+cinco do um,5,1
+seis do um,6,1
+sete do um,7,1
+oito do um,8,1
+nove do um,9,1
+dez do um,10,1
+onze do um,11,1
+oze do um,12,1
+treze do um,13,1
+catorze do um,14,1
+quatorze do um,14,1
+quinze do um,15,1
+dezesseis do um,16,1
+dezessete do um,17,1
+dezoito do um,18,1
+dezenove do um,19,1
+vinte do um,20,1
+vinte e um do um,21,1
+vinte e dois do um,22,1
+vinte e três do um,23,1
+vinte e quatro do um,24,1
+vinte e cinco do um,25,1
+vinte e seis do um,26,1
+vinte e sete do um,27,1
+vinte e oito do um,28,1
+vinte e nove do um,29,1
+trinta do um,30,1
+trinta e um do um,31,1
+primeiro do dois,1,2
+um do dois,1,2
+dois do dois,2,2
+três do dois,3,2
+quatro do dois,4,2
+cinco do dois,5,2
+seis do dois,6,2
+sete do dois,7,2
+oito do dois,8,2
+nove do dois,9,2
+dez do dois,10,2
+onze do dois,11,2
+oze do dois,12,2
+treze do dois,13,2
+catorze do dois,14,2
+quatorze do dois,14,2
+quinze do dois,15,2
+dezesseis do dois,16,2
+dezessete do dois,17,2
+dezoito do dois,18,2
+dezenove do dois,19,2
+vinte do dois,20,2
+vinte e um do dois,21,2
+vinte e dois do dois,22,2
+vinte e três do dois,23,2
+vinte e quatro do dois,24,2
+vinte e cinco do dois,25,2
+vinte e seis do dois,26,2
+vinte e sete do dois,27,2
+vinte e oito do dois,28,2
+vinte e nove do dois,29,2
+primeiro do três,1,3
+um do três,1,3
+dois do três,2,3
+três do três,3,3
+quatro do três,4,3
+cinco do três,5,3
+seis do três,6,3
+sete do três,7,3
+oito do três,8,3
+nove do três,9,3
+dez do três,10,3
+onze do três,11,3
+oze do três,12,3
+treze do três,13,3
+catorze do três,14,3
+quatorze do três,14,3
+quinze do três,15,3
+dezesseis do três,16,3
+dezessete do três,17,3
+dezoito do três,18,3
+dezenove do três,19,3
+vinte do três,20,3
+vinte e um do três,21,3
+vinte e dois do três,22,3
+vinte e três do três,23,3
+vinte e quatro do três,24,3
+vinte e cinco do três,25,3
+vinte e seis do três,26,3
+vinte e sete do três,27,3
+vinte e oito do três,28,3
+vinte e nove do três,29,3
+trinta do três,30,3
+trinta e um do três,31,3
+primeiro do quatro,1,4
+um do quatro,1,4
+dois do quatro,2,4
+três do quatro,3,4
+quatro do quatro,4,4
+cinco do quatro,5,4
+seis do quatro,6,4
+sete do quatro,7,4
+oito do quatro,8,4
+nove do quatro,9,4
+dez do quatro,10,4
+onze do quatro,11,4
+oze do quatro,12,4
+treze do quatro,13,4
+catorze do quatro,14,4
+quatorze do quatro,14,4
+quinze do quatro,15,4
+dezesseis do quatro,16,4
+dezessete do quatro,17,4
+dezoito do quatro,18,4
+dezenove do quatro,19,4
+vinte do quatro,20,4
+vinte e um do quatro,21,4
+vinte e dois do quatro,22,4
+vinte e três do quatro,23,4
+vinte e quatro do quatro,24,4
+vinte e cinco do quatro,25,4
+vinte e seis do quatro,26,4
+vinte e sete do quatro,27,4
+vinte e oito do quatro,28,4
+vinte e nove do quatro,29,4
+trinta do quatro,30,4
+primeiro do cinco,1,5
+um do cinco,1,5
+dois do cinco,2,5
+três do cinco,3,5
+quatro do cinco,4,5
+cinco do cinco,5,5
+seis do cinco,6,5
+sete do cinco,7,5
+oito do cinco,8,5
+nove do cinco,9,5
+dez do cinco,10,5
+onze do cinco,11,5
+oze do cinco,12,5
+treze do cinco,13,5
+catorze do cinco,14,5
+quatorze do cinco,14,5
+quinze do cinco,15,5
+dezesseis do cinco,16,5
+dezessete do cinco,17,5
+dezoito do cinco,18,5
+dezenove do cinco,19,5
+vinte do cinco,20,5
+vinte e um do cinco,21,5
+vinte e dois do cinco,22,5
+vinte e três do cinco,23,5
+vinte e quatro do cinco,24,5
+vinte e cinco do cinco,25,5
+vinte e seis do cinco,26,5
+vinte e sete do cinco,27,5
+vinte e oito do cinco,28,5
+vinte e nove do cinco,29,5
+trinta do cinco,30,5
+trinta e um do cinco,31,5
+primeiro do seis,1,6
+um do seis,1,6
+dois do seis,2,6
+três do seis,3,6
+quatro do seis,4,6
+cinco do seis,5,6
+seis do seis,6,6
+sete do seis,7,6
+oito do seis,8,6
+nove do seis,9,6
+dez do seis,10,6
+onze do seis,11,6
+oze do seis,12,6
+treze do seis,13,6
+catorze do seis,14,6
+quatorze do seis,14,6
+quinze do seis,15,6
+dezesseis do seis,16,6
+dezessete do seis,17,6
+dezoito do seis,18,6
+dezenove do seis,19,6
+vinte do seis,20,6
+vinte e um do seis,21,6
+vinte e dois do seis,22,6
+vinte e três do seis,23,6
+vinte e quatro do seis,24,6
+vinte e cinco do seis,25,6
+vinte e seis do seis,26,6
+vinte e sete do seis,27,6
+vinte e oito do seis,28,6
+vinte e nove do seis,29,6
+trinta do seis,30,6
+primeiro do sete,1,7
+um do sete,1,7
+dois do sete,2,7
+três do sete,3,7
+quatro do sete,4,7
+cinco do sete,5,7
+seis do sete,6,7
+sete do sete,7,7
+oito do sete,8,7
+nove do sete,9,7
+dez do sete,10,7
+onze do sete,11,7
+oze do sete,12,7
+treze do sete,13,7
+catorze do sete,14,7
+quatorze do sete,14,7
+quinze do sete,15,7
+dezesseis do sete,16,7
+dezessete do sete,17,7
+dezoito do sete,18,7
+dezenove do sete,19,7
+vinte do sete,20,7
+vinte e um do sete,21,7
+vinte e dois do sete,22,7
+vinte e três do sete,23,7
+vinte e quatro do sete,24,7
+vinte e cinco do sete,25,7
+vinte e seis do sete,26,7
+vinte e sete do sete,27,7
+vinte e oito do sete,28,7
+vinte e nove do sete,29,7
+trinta do sete,30,7
+trinta e um do sete,31,7
+primeiro do oito,1,8
+um do oito,1,8
+dois do oito,2,8
+três do oito,3,8
+quatro do oito,4,8
+cinco do oito,5,8
+seis do oito,6,8
+sete do oito,7,8
+oito do oito,8,8
+nove do oito,9,8
+dez do oito,10,8
+onze do oito,11,8
+oze do oito,12,8
+treze do oito,13,8
+catorze do oito,14,8
+quatorze do oito,14,8
+quinze do oito,15,8
+dezesseis do oito,16,8
+dezessete do oito,17,8
+dezoito do oito,18,8
+dezenove do oito,19,8
+vinte do oito,20,8
+vinte e um do oito,21,8
+vinte e dois do oito,22,8
+vinte e três do oito,23,8
+vinte e quatro do oito,24,8
+vinte e cinco do oito,25,8
+vinte e seis do oito,26,8
+vinte e sete do oito,27,8
+vinte e oito do oito,28,8
+vinte e nove do oito,29,8
+trinta do oito,30,8
+trinta e um do oito,31,8
+primeiro do nove,1,9
+um do nove,1,9
+dois do nove,2,9
+três do nove,3,9
+quatro do nove,4,9
+cinco do nove,5,9
+seis do nove,6,9
+sete do nove,7,9
+oito do nove,8,9
+nove do nove,9,9
+dez do nove,10,9
+onze do nove,11,9
+oze do nove,12,9
+treze do nove,13,9
+catorze do nove,14,9
+quatorze do nove,14,9
+quinze do nove,15,9
+dezesseis do nove,16,9
+dezessete do nove,17,9
+dezoito do nove,18,9
+dezenove do nove,19,9
+vinte do nove,20,9
+vinte e um do nove,21,9
+vinte e dois do nove,22,9
+vinte e três do nove,23,9
+vinte e quatro do nove,24,9
+vinte e cinco do nove,25,9
+vinte e seis do nove,26,9
+vinte e sete do nove,27,9
+vinte e oito do nove,28,9
+vinte e nove do nove,29,9
+trinta do nove,30,9
+primeiro do dez,1,10
+um do dez,1,10
+dois do dez,2,10
+três do dez,3,10
+quatro do dez,4,10
+cinco do dez,5,10
+seis do dez,6,10
+sete do dez,7,10
+oito do dez,8,10
+nove do dez,9,10
+dez do dez,10,10
+onze do dez,11,10
+oze do dez,12,10
+treze do dez,13,10
+catorze do dez,14,10
+quatorze do dez,14,10
+quinze do dez,15,10
+dezesseis do dez,16,10
+dezessete do dez,17,10
+dezoito do dez,18,10
+dezenove do dez,19,10
+vinte do dez,20,10
+vinte e um do dez,21,10
+vinte e dois do dez,22,10
+vinte e três do dez,23,10
+vinte e quatro do dez,24,10
+vinte e cinco do dez,25,10
+vinte e seis do dez,26,10
+vinte e sete do dez,27,10
+vinte e oito do dez,28,10
+vinte e nove do dez,29,10
+trinta do dez,30,10
+trinta e um do dez,31,10
+primeiro do onze,1,11
+um do onze,1,11
+dois do onze,2,11
+três do onze,3,11
+quatro do onze,4,11
+cinco do onze,5,11
+seis do onze,6,11
+sete do onze,7,11
+oito do onze,8,11
+nove do onze,9,11
+dez do onze,10,11
+onze do onze,11,11
+oze do onze,12,11
+treze do onze,13,11
+catorze do onze,14,11
+quatorze do onze,14,11
+quinze do onze,15,11
+dezesseis do onze,16,11
+dezessete do onze,17,11
+dezoito do onze,18,11
+dezenove do onze,19,11
+vinte do onze,20,11
+vinte e um do onze,21,11
+vinte e dois do onze,22,11
+vinte e três do onze,23,11
+vinte e quatro do onze,24,11
+vinte e cinco do onze,25,11
+vinte e seis do onze,26,11
+vinte e sete do onze,27,11
+vinte e oito do onze,28,11
+vinte e nove do onze,29,11
+trinta do onze,30,11
+primeiro do doze,1,12
+um do doze,1,12
+dois do doze,2,12
+três do doze,3,12
+quatro do doze,4,12
+cinco do doze,5,12
+seis do doze,6,12
+sete do doze,7,12
+oito do doze,8,12
+nove do doze,9,12
+dez do doze,10,12
+onze do doze,11,12
+oze do doze,12,12
+treze do doze,13,12
+catorze do doze,14,12
+quatorze do doze,14,12
+quinze do doze,15,12
+dezesseis do doze,16,12
+dezessete do doze,17,12
+dezoito do doze,18,12
+dezenove do doze,19,12
+vinte do doze,20,12
+vinte e um do doze,21,12
+vinte e dois do doze,22,12
+vinte e três do doze,23,12
+vinte e quatro do doze,24,12
+vinte e cinco do doze,25,12
+vinte e seis do doze,26,12
+vinte e sete do doze,27,12
+vinte e oito do doze,28,12
+vinte e nove do doze,29,12
+trinta do doze,30,12
+trinta e um do doze,31,12
+hoje,0,0
+hoje de manhã,0,0
+hoje de tarde,0,0
+hoje a tarde,0,0
+hoje de noite,0,0
+hoje a noite,0,0
+amanhã,1,0
+amanhã de manhã,1,0
+amanhã de tarde,1,0
+amanhã a tarde,1,0
+amanhã de noite,1,0
+amanhã a noite,1,0
+depois de amanhã,2,0
+depois de amanhã de manhã,2,0
+depois de amanhã de tarde,2,0
+depois de amanhã a tarde,2,0
+depois de amanhã de noite,2,0
+depois de amanhã a noite,2,0
+segunda,1,0
+terça,2,0
+quarta,3,0
+quinta,4,0
+sexta,5,0
+sábado,6,0
+domingo,7,0
+segunda-feira,1,0
+terça-feira,2,0
+quarta-feira,3,0
+quinta-feira,4,0
+sexta-feira,5,0
+próxima segunda,1,0
+próxima terça,2,0
+próxima quarta,3,0
+próxima quinta,4,0
+próxima sexta,5,0
+próximo sábado,6,0
+próximo domingo,7,0
+próxima segunda-feira,1,0
+próxima terça-feira,2,0
+próxima quarta-feira,3,0
+próxima quinta-feira,4,0
+próxima sexta-feira,5,0
+segunda que vem,1,0
+terça que vem,2,0
+quarta que vem,3,0
+quinta  que vem,4,0
+sexta que vem,5,0
+sábado que vem,6,0
+domingo que vem,7,0
+segunda-feira que vem,1,0
+terça-feira que vem,2,0
+quarta-feira que vem,3,0
+quinta-feira que vem,4,0
+sexta-feira que vem,5,0
